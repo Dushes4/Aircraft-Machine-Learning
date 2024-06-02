@@ -13,7 +13,7 @@ This project is designed to automate the development of aircraft-type unmanned a
 
 ## Demo
 
-[![VIDEO DEMO]()](https://drive.google.com/file/d/1cbnysOwDFN1zxDICBBvhkydX9xNlUabG/view?usp=sharing)
+[![VIDEO DEMO](https://media.discordapp.net/attachments/634421986076131368/1246765695212191795/image.png?ex=665d9489&is=665c4309&hm=f5200262bcc944b70fe2596308b8a33d3d5700647e01546f8b14fa2911c00451&=&format=webp&quality=lossless&width=687&height=292)](https://drive.google.com/file/d/1cbnysOwDFN1zxDICBBvhkydX9xNlUabG/view?usp=sharing)
 
 ## Getting started
 
